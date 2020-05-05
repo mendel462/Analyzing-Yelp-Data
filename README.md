@@ -4,7 +4,7 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 ### Data Source: [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset#yelp_academic_dataset_user.json)
 <img src = 'https://media.giphy.com/media/1iphue3Q2fJuCzkjmC/giphy.gif' width = '300' high = '50'>
 
-## [Analysis](https://github.com/mendel462/Analyzing-Yelp-Data/blob/master/Analysis.ipynb) [S3](https://console.aws.amazon.com/s3/buckets/sta9760-practice-spark/?region=us-east-1&tab=overview)
+## [My Analysis](https://github.com/mendel462/Analyzing-Yelp-Data/blob/master/Analysis.ipynb) / [S3](https://console.aws.amazon.com/s3/buckets/sta9760-practice-spark/?region=us-east-1&tab=overview)
 
 ## You will learn about:
 - Leverage large data by using powerful cluster
